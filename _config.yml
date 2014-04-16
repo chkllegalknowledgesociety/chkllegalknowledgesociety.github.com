@@ -1,4 +1,4 @@
-title:            吉隆玻法律知识学会
+title:            吉隆玻中华独立中学法律知识学会
 description:      法律知识学会的点点滴滴
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
@@ -8,12 +8,12 @@ disqus_shortname:
 owner:
   name:           Zhengyan.P
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "传统的打字员，在学会任职个小小的职务。尽力在分内事里取得 100 分。"
   email:          zypeh.geek@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
-  github:         
+  facebook:       https://www.facebook.com/lisper.zypeh
+  github:         https://www.github.com/Zypeh
   stackexchange:  
   linkedin:       
   instagram:      
