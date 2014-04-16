@@ -1,8 +1,8 @@
-title:            CHKL Legal Knowledge Society
-description:      The mightly society that ever created
+title:            吉隆玻法律知识学会
+description:      法律知识学会的点点滴滴
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+# url:              http://localhost:4000
 
 # Owner/author information
 owner:
