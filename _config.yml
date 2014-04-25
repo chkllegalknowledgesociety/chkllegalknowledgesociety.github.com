@@ -6,9 +6,9 @@ url:              https://chkllegalknowledgesociety.github.com
 
 # Owner/author information
 owner:
-  name:           Zhengyan.P
+  name:           法官
   avatar:         avatar.jpg
-  bio:            "传统的打字员，在学会任职个小小的职务。尽力在分内事里取得 100 分。"
+  bio:            "管理员，在学会任职个小小的职务。负责更新这可爱的小网站"
   email:          zypeh.geek@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -34,10 +34,9 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: https://chkllegalknowledgesociety.github.io/about/
   - title: Old site
     url: http://chkllegalknowledgesociety.blogspot.com
+    external: true
   - title: Github
     url: https://chkllegalknowledgesociety/chkllegalsociety.github.com
     external: true
