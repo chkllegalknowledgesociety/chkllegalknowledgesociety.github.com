@@ -2,21 +2,27 @@
 layout: page
 permalink: /about/
 title: 关于我们
-tags: [Jekyll, theme, modern, minimal, responsive]
+tags: [Jekyll, legal, law, society, CHKL, school, 95]
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: about-header.jpg
 share: true
 ---
 
 # 吉隆玻中华独立中学法律知识学会
+
+<figure>
+	<img src="/images/about-1.jpg" alt="">
+</figure>
 法律知识学会从 1983 年成立至今已历 31 年。
 学会一向来以轻松学习为方针，让会员能轻松学习法律知识。
 本学会也不时邀请资深的专业律师及法律系的学生来为会员讲谈法律，加深学生对法律。
 其宗旨在于启发同学对法律有所认识，参加的人数约有 160 人，指导者为刘聪老师。
 
 ## 各类详情
+
+<figure>
+	<img src="/images/about-2.jpg" alt="">
+</figure>
 本学会活动时间为每个星期三的下午 3 时半到 4 时半, 为时 1 个小时。由相关执委灌输学员的基本法律知识，
 分析案件如何审判，如何判决，何谓法律程序等等。
 
