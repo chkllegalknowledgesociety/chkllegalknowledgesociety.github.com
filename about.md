@@ -4,7 +4,7 @@ permalink: /about/
 title: 关于我们
 tags: [Jekyll, legal, law, society, CHKL, school, 95]
 image:
-  feature: about-header.jpg
+  feature: abstract-6.jpg
 share: true
 ---
 
